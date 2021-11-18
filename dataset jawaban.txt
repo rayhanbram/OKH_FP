@@ -1,0 +1,77 @@
+dataset 1
+Apakah ada Konflik? : false
+9.226515420063807
+Minimal Timeslots: 35
+Execution time in milliseconds : 2174
+
+dataset 2
+Apakah ada Konflik? : false
+11.87567186057875
+Minimal Timeslots: 32
+Execution time in milliseconds : 1736
+
+dataset 3
+Apakah ada Konflik? : false
+106.77333333333333
+Minimal Timeslots: 26
+Execution time in milliseconds : 4883
+
+dataset 4
+Apakah ada Konflik? : false
+42.772936592277716
+Minimal Timeslots: 20
+Execution time in milliseconds : 1936
+
+dataset 5
+Apakah ada Konflik? : false
+91.13329594316694
+Minimal Timeslots: 20
+Execution time in milliseconds : 1590
+
+dataset 6
+Apakah ada Konflik? : false
+16.474688187820984
+Minimal Timeslots: 19
+Execution time in milliseconds : 1414
+
+dataset 7
+Apakah ada Konflik? : false
+30.022109749600425
+Minimal Timeslots: 38
+Execution time in milliseconds : 3363
+
+dataset 8
+Apakah ada Konflik? : false
+30.022109749600425
+Minimal Timeslots: 38
+Execution time in milliseconds : 3363
+
+dataset 9
+Apakah ada Konflik? : false
+303.94762684124385
+Minimal Timeslots: 12
+Execution time in milliseconds : 5012
+
+dataset 10
+Apakah ada Konflik? : false
+12.254011921137094
+Minimal Timeslots: 24
+Execution time in milliseconds : 1451
+
+dataset 11
+Apakah ada Konflik? : false
+1.0901909150757076
+Minimal Timeslots: 36
+Execution time in milliseconds : 2133
+
+dataset 12
+Apakah ada Konflik? : false
+65.76
+Minimal Timeslots: 11
+Execution time in milliseconds : 2204
+
+dataset 13
+Apakah ada Konflik? : false
+131.5982996811902
+Minimal Timeslots: 23
+Execution time in milliseconds : 1046
